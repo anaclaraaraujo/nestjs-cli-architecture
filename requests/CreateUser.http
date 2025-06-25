@@ -3,5 +3,6 @@ Content-Type: application/json
 
 {
   "email": "ana@gmail.com",
-  "name": "Ana Clara"
+  "name": "Ana Clara",
+  "extra": "Dado indesejado"
 }
